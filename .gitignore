@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+NHC-Link042.*
+Firmware/lst/*.*
+Firmware/obj/*.*
