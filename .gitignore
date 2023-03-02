@@ -32,5 +32,7 @@
 *.app
 
 NHC-Link042.*
+NHC-Link042
 Firmware/lst/*.*
 Firmware/obj/*.*
+*.bin

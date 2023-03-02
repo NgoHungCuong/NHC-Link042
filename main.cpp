@@ -895,6 +895,10 @@ int main(int argc, char **argv)
             fflush(stdout);
         }
     }
+
+    printf("\n");
+    fflush(stdout);
+
     if (u32Fail)
     {
         printf("Read: FAIL\n");
